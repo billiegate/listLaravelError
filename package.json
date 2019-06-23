@@ -1,0 +1,19 @@
+{
+  "name": "listerrors",
+  "version": "1.0.0",
+  "description": "displays laravel errors and other object formated errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "errors",
+    "listerrors",
+    "json-errors",
+    "format-error",
+    "display-errors"
+  ],
+  "author": "AFOLABI Tope Emmanuel",
+  "license": "ISC"
+}
